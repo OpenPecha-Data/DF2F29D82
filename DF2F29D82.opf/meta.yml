@@ -1,0 +1,22 @@
+id: DF2F29D82
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2021-12-31T06:53:42+00:00'
+last_modified: '2022-05-26T08:18:25.018781+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    a77f:
+      image_group_id: I1PD95859
+      title: ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས།
+      total_pages: 1856
+      order: 14
+      base_file: a77f.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
